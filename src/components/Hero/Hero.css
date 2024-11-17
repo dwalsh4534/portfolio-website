@@ -1,0 +1,11 @@
+.hero-profile{
+    border-radius: 100%;
+}
+
+.hero-background {
+    background-image: url('../../assets/images/mandlebrot6.jpg');
+    background-repeat: no-repeat; /* Prevents repeating */
+    background-size: cover; /* Ensures it fills the container */
+    background-position: center;
+    width: 100%;
+}
